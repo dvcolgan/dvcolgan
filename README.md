@@ -4,7 +4,7 @@ My goal: To be as self-directed as possible so that you can get back to running 
 
 Happy to fit into your existing process or I can manage the project myself with a weekly check-in call.
 
-My preferred stack is React.js, TailwindCSS, and Next.js deployed to Vercel, but I also have experience with Vue.js, Express.js, and Netlify.
+Currently focusing on React.js, TailwindCSS, and Next.js.
 
 Open to contracting at $100/hr up to 20 hours a week, or we can negotiate a fixed-price, fixed-scope project.
 
